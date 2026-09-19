@@ -37,40 +37,6 @@ This project implements a simplified Travel Management application using SAP BTP
 
     Fiori Elements Preview
 
-    
-
-## ⚠️ Disclaimer
-
-This project was originally implemented and tested on a SAP BTP ABAP Trial system, which automatically expired after 90 days.
-    Therefore, the source files were manually copied from the project and saved here as txt files.
-    Some content in the RAP_SOURCE_CODE/ folder may differ slightly from the original implementation, but the overall structure and concepts are preserved to showcase the full RAP architecture and development process.
-
-## Project Structure
-
-This project follows the SAP RAP (RESTful Application Programming) model structure with organized folders for different ABAP artifacts:
-
-<img width="1200" alt="project_structure" src="https://github.com/user-attachments/assets/694a7b06-e3c2-4660-92e3-6d6b1a2a7ae7" />
-
-
-----------------------
-    
-## How to reproduce
-
-    Use the ABAP trial system
-
-    Create these files in Eclipse (ADT)
-     
-    Activate the travel table 
-
-    Generate data using the class 
-
-    Open the service binding preview to see the app
-## Tutorial Reference
-
-This app was created by following this tutorial: (https://developers.sap.com/tutorials/abap-environment-rap100-generate-ui-service.html)
-SAP Developer Center - Generate UI from RAP
-
-
 
 
 
