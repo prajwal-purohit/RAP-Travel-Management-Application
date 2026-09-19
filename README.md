@@ -10,7 +10,7 @@ This project implements a simplified Travel Management application using SAP BTP
 - Attachment, metadata extension, and draft handling
 - Create, update, and delete entries via auto-generated Fiori UI
 ----------------------
-<img width="1388" alt="preview_list_page" src="https://github.com/user-attachments/assets/b667d9ec-9b0f-4acf-bb53-affcc36946ee" />" />
+<img width="1388" alt="preview_list_page" src="https://github.com/user-attachments/assets/b667d9ec-9b0f-4acf-bb53-affcc36946ee" />
 
 ----------------------
 
